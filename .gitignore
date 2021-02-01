@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 .idea
 .vercel
+=======
+.hg/
+.hgignore
+.hgsigs
+.hgsub
+.hgsubstate
+.hgtags
+>>>>>>> e29283181e99c5cdb26701abae52ed83ffab9786
